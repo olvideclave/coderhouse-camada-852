@@ -1,0 +1,80 @@
+section{
+	text-align: center;
+}
+.lista-linea{
+	float: right;
+}
+.lista-linea > li{
+	list-style: none;
+	display: inline;
+}
+form{
+	position: relative;
+	top: -30px;
+	left: 15%;
+}
+#domain{
+	width: 60%;
+	height: 50px;
+}
+#enviar{
+	width: 10%;
+	height: 56px;
+}
+.cajas-promo{
+	width: 25%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.cajas-promo img, .cajas-promo2 img, .cajas-promo3 img, .cajas-promo4 img {
+	border-radius: 60%;
+}
+.cajas-promo2{
+	width: 25%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.cajas-promo3{
+	width: 25%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.cajas-promo4{
+	width: 25%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+#telefono{
+	text-align: center;
+}
+.ancho{
+	width: 33%;
+	float: left;
+}
+.ancho >p{
+	text-align: left;
+	float: right;
+	width: 70%;
+}
+.ancho > img{
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
