@@ -21,6 +21,10 @@ form{
 	width: 10%;
 	height: 56px;
 }
+.cont-promo{
+	width: 80%;
+	margin: auto;
+}
 .cajas-promo{
 	width: 25%;
 	float: left;
@@ -50,6 +54,7 @@ form{
 }
 #telefono{
 	text-align: center;
+	width: 100%;
 }
 .ancho{
 	width: 33%;
